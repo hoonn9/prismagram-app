@@ -9,8 +9,8 @@ const AuthNavigation = createStackNavigator(
   {
     Login,
     Confirm,
-    AuthHome,
-    SignUp
+    SignUp,
+    AuthHome
   },
   {
     headerMode: "none"
